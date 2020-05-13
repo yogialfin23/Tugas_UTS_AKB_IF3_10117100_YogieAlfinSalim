@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/friend"
+        android:icon="@drawable/teman"
+        android:title="Friend"/>
+    <item
+        android:id="@+id/contact"
+        android:icon="@drawable/contact_1"
+        android:title="Contact"/>
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/male_user"
+        android:title="Profile"/>
+
+</menu>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Connect</string>
+
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="telpon">No Hp</string>
+    <string name="email">E-mail</string>
+    <string name="ig">Facebook</string>
+    <string name="date">Date</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
